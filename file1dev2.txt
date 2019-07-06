@@ -1,0 +1,2 @@
+git is a nice tool
+changed by dev2
